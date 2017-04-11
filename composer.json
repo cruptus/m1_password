@@ -1,0 +1,14 @@
+{
+  "name": "jeremielbaz.fr",
+  "authors": [
+    {
+      "name": "Jeremie Elbaz",
+      "email": "jeremie-e@hotmail.fr"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "App\\": "core"
+    }
+  }
+}
